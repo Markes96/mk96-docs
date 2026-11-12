@@ -1,9 +1,11 @@
 # mk96-docs
 
-Documentación.
+Documentation.
 
-Este repositorio es solo un índice. El código vive en la organización de GitHub **[mk96-docs](https://github.com/mk96-docs)**.
+This repository is only an index. The code lives in the GitHub organization **[mk96-docs](https://github.com/mk96-docs)**.
 
-## Repositorios
+## Repositories
 
-Todavía no hay repositorios.
+<!-- projects:start -->
+No repositories yet.
+<!-- projects:end -->
